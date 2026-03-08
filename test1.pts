@@ -1,0 +1,15 @@
+; ENVI Image to Image GCP File
+; base file: C:\Documents and Settings\All Users\Documents\My Pictures\示例图片\test1ref.bmp
+; warp file: C:\Documents and Settings\All Users\Documents\My Pictures\示例图片\test1sen.bmp
+; Base Image (x,y), Warp Image (x,y)
+;
+    618.00    416.00    645.00    416.00
+    619.00    404.00    646.00    405.00
+    616.00    430.00    643.00    430.00
+   1059.00    680.00   1065.00    682.00
+    770.00    846.00    810.00    849.00
+    784.00    862.00    824.00    865.00
+    316.00    902.00    300.00    958.00
+    317.00    894.00    301.00    950.00
+    755.00    904.00    795.00    908.00
+    776.00    870.00    816.00    873.00
