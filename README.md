@@ -1,2 +1,2 @@
-PS E:\3dcv\遥感图像配准\CFOG-main> git add README.md
-warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+本项目旨在利用CFOG算法实现高效的多模态图像配准任务。
+具体在于实现跨模态的“大图找小图”任务，适配旋转和尺度缩放，并输出可视化结果。
